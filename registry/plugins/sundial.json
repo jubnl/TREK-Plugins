@@ -7,6 +7,19 @@
   "type": "trip-page",
   "versions": [
     {
+      "version": "1.1.0",
+      "gitTag": "v1.1.0",
+      "commitSha": "96588be0049760d876bad981c218b320c22ff738",
+      "downloadUrl": "https://github.com/jubnl/trek-plugin-sundial/releases/download/v1.1.0/plugin.zip",
+      "sha256": "afcdbb4a014d4e6fce998bb2fbd41b6383882f296fb5efba9dd69df5768f1ea6",
+      "trek": ">=4.0.0 <5.0.0",
+      "size": 40385,
+      "apiVersion": 1,
+      "nativeModules": false,
+      "publishedAt": "2026-09-03T16:53:33.340Z",
+      "signature": "ewMTnwblHlSgK/rOhl9LtzkVlrMwfzhFPPVySaDSzjzDeyNOgdVcftsPOJmUCv3Ydfv+bGZ4gCpiC7YrMlF1Bw=="
+    },
+    {
       "version": "1.0.0",
       "gitTag": "v1.0.0",
       "commitSha": "08aa4429ee8cb48ca400588ce3a590806f93211b",
